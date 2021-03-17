@@ -9,7 +9,7 @@ I am web developer currently working on freelance projects.
     - freelance project
     - networking
 - 🌱 I’m currently learning
-    - Gatsby
+    - Typescript
 - 👯 I’m looking to collaborate on
     - projects
 - 🤔 I’m looking for help with
