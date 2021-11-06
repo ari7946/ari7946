@@ -6,10 +6,10 @@ I am web developer currently working on freelance projects.
 
 
 - 🔭 I’m currently working on
-    - freelance project
+    - freelance projects
     - networking
 - 🌱 I’m currently learning
-    - Typescript
+    - Effveringgg... so much to learn :)
 - 👯 I’m looking to collaborate on
     - projects
 - 🤔 I’m looking for help with
@@ -18,7 +18,7 @@ I am web developer currently working on freelance projects.
     - new opportunities
     - help tracking bugs
     - collaboration
-    - dogs
+    - dogs & pls ask about dogs!!
 - 📫 How to reach me: 
     [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="github logo" width="34" height="34">](https://github.com/ari7946/)  [<img src="https://cdn.svgporn.com/logos/linkedin.svg" alt="linkedin logo" width="24" height="34">](https://www.linkedin.com/in/ari-mercado/)  [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="gmail logo" width="24" height="34">](mercado7946@gmail.com)
     - LinkedIn: https://www.linkedin.com/in/ari-mercado/
